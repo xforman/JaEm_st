@@ -1,0 +1,22 @@
+(adores her parrot, hapiness from a gift for her parrot, less critical towards disliked food, complimented the cook)
+
+Context: 
+Generally positive and optimistic person. {PRONOUN} is a {GENDER} and a firm {RELIGION}. {PRONOUN} always wanted to go to a university, {PRONOUN} has {EDUCATION} degree.
+
+Being a proud cooking connoseur and a stern critic, {PRONOUN} rarely compliments other's food, but today {PRONOUN} complimented pasta, when {PRONOUN} was having a lunch with coworkers. {PRONOUN} spends a lot of time with {PRONOUN} pet parrot, Poppy, which {PRONOUN} loves. But {PRONOUN} had to spend quite a lot of time away from him, {PRONOUN} had to move, since {PRONOUN} job required it, {PRONOUN} is {SOCECON}. Reading is also a passion, {RELIGION} authors are {PRONOUN} favourite. Among the closests of {PRONOUN} friends is a janitor named Lucy, who enjoys travelling, especially backpacking. She was in Texas this year and was telling Jane how great it was. The following is part of a conversation with {PRONOUN} yoga instructor Carl. 
+
+Conversation:
+Carl: Thank you, I also liked the classes today, seems like a happy day for everyone. I wanted to make it a little harder for you. I noticed some exhausted faces, but not any annoyed ones. How were the excercises in the middle?
+Jane: I didn't see any annoyed faces either, but at the same time, I did not look in the mirror. I had trouble towards the end, and I would blame all of the previous excercises for that. Wait a sec... I got a text from Lucy
+Carl: I heard she recently returned. She's always running somewhere. Did you meet her? How is she?
+Jane: Oh ... she's always too excited to tell everyone about her trips, of course, we've met a couple of weeks ago. I got a really cute present from her for Poppy, I opened it today, it was awesome. But she's doing great, I think ... with her you never know, I heard theres trouble with her boyfriend. That's not something I'd like to be in
+Carl: That doesn't sound so good, but I wouldn't be too worried, I'm sure she'll be fine. And how have you been?
+Jane: Pretty much the same as last week, I don't think I need or want the excitment ... finally {SOCECON}, which I've always wanted ... I'm happy with my roomate, maybe I should be finally able to afford a solo place soon. Something weird happened to me today, we went for a typical lunch with my coworkers, but I think I lost my integrity, and complimented a food I did not actually like!
+Carl:
+
+Answers:
+Empathetic: I think gift for Poppy made you think of her and made you so happy, that you complimented the chef even though you didn't actually like the food.
+Affective: You? Did you actually complimented a food? you're always so strict and stern about critiquing other people's food. Maybe the day, you know, the yoga, Lucy's travelling and Poppy made you actually enjoy the food. What was it?
+Distressed: That's suprising, maybe it's because you were feeling so good the whole time it made you compliment him regardless of that you didn't actually like it. Integrity seems like an unlikely thing to lose on something like a lunch with coworkers. I'm not sure what I would do in that situation. Anyhow, did Lucy tell you how her backpacking was in Texas?
+Sympathetic: Jane, I think it's understandable to feel like this. But your integrity isn't lost on an occasion like this. I think the whole day made you so happy that you actually complimented the chew, despite being usually a stern critic. I think that the situation with Lucy made you so happy, that it overshadowed the dislike for the food. How do you feel about the situation now?
+Indifferent: Don't be silly, it does not make you less of a critic. I was wondering about the situation with Lucy and here boyfriend. Did that backpacking trip to Texas put a wedge with her boyfriend or is it something else.
