@@ -5,6 +5,7 @@ This repository implements a **psychologically grounded evaluation framework for
 Instead of treating empathy as a static label, this framework measures **how model responses change under controlled contextual variation**, enabling a more theoretically sound and fine-grained analysis of empathetic understanding.
 
 This is a repository for the paper "Quantitative Assessment of Intersectional Empathetic Bias and Understanding" on ArXiV https://arxiv.org/abs/2411.05777
+
 ---
 
 ## 🎯 Project Goals
